@@ -37,16 +37,13 @@ Hi there! I'm ***Yeasin Miazi***. I'm a passionate Web Developer with a strong f
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
 ### Contact
 
 Feel free to reach out to me or connect with me on <a href="https://www.linkedin.com/in/yeasin-miazi-64068033b/?trk=opento_sprofile_topcard">Linkedin</a>
 
 You can also find me on:
-
-Email: faysal@programming-hero.com
-Linkedin: Click Here
-Facebook : Click Here
+<li>Email:yeasinmiazi1997@gmail.com</li>
+<li>Facebook : https://m.facebook.com/amimaizi/</li>
 Let's connect and discuss exciting opportunities!
 
 
