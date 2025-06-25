@@ -35,7 +35,7 @@ Hi there! I'm ***Yeasin Miazi***. I'm a passionate Web Developer with a strong f
 
 ### Contact
 
-<s>Feel free to reach out to me or connect with me on <a href="https://www.linkedin.com/in/yeasin-miazi-64068033b/?trk=opento_sprofile_topcard">Linkedin</a><s>
+Feel free to reach out to me or connect with me on <a href="https://www.linkedin.com/in/yeasin-miazi-64068033b/?trk=opento_sprofile_topcard">Linkedin</a>
 
 You can also find me on:
 
