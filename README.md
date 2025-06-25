@@ -32,6 +32,11 @@ Hi there! I'm ***Yeasin Miazi***. I'm a passionate Web Developer with a strong f
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=miazi2003&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=miazi2003&icon=9&color=10)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 ### Contact
 
@@ -43,11 +48,6 @@ Email: faysal@programming-hero.com
 Linkedin: Click Here
 Facebook : Click Here
 Let's connect and discuss exciting opportunities!
-
----
-[![](https://visitcount.itsvg.in/api?id=miazi2003&icon=9&color=10)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
