@@ -43,7 +43,7 @@ Feel free to reach out to me or connect with me on <a href="https://www.linkedin
 
 You can also find me on:
 <li>Email: <a href="yeasinmaizi1997@gmail.com">yeasinmiazi1997@gmail.com</a> </li>
-<li>Facebook : https://m.facebook.com/amimaizi/</li>
+<li>Facebook : https://m.facebook.com/amimaizi</li>
 Let's connect and discuss exciting opportunities!
 
 
