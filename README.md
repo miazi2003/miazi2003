@@ -1,6 +1,6 @@
 <div><img width="900" height="200" src="https://i.ibb.co/x8Khty6c/Screenshot-2025-06-25-111802.png"/></div>
 
-***About Me***
+***About Me*** <br/>
 Hi there! I'm ***Yeasin Miazi***. I'm a passionate Web Developer with a strong focus on FrontEnd Development. I love sharing what I know teaching. If you want to learn more about what I do, you can follow me. Outside of coding, I enjoy Bussiness Studies.
 
 ### When I code, I rely on
