@@ -42,7 +42,7 @@ Hi there! I'm ***Yeasin Miazi***. I'm a passionate Web Developer with a strong f
 Feel free to reach out to me or connect with me on <a href="https://www.linkedin.com/in/yeasin-miazi-64068033b/?trk=opento_sprofile_topcard">Linkedin</a>
 
 You can also find me on:
-<li>Email: <a href="yeasinmaizi1997@gmail.com">yeasinmiazi1997@gmail.com</a> </li>
+<li>Email: <a mailto="yeasinmaizi1997@gmail.com">yeasinmiazi1997@gmail.com</a> </li>
 <li>Facebook : https://m.facebook.com/amimiazi</li>
 Let's connect and discuss exciting opportunities!
 
