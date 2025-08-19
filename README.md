@@ -5,6 +5,21 @@ Hi there! I'm ***Yeasin Miazi***. I'm a passionate Web Developer with a strong f
 
 <hr style="height:2px; background-color:#999; border:none; margin-top: 20px; margin-bottom: 20px;" />
 
+## 🚀 Current Activities  
+
+### 🔭 Working On  
+- ✈️ Tourism Management Website (**Roavia**)  
+- 📦 Parcel Management Website 
+
+### 🌱 Exploring  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+
+---
+
+
 ### When I code, I rely on
 
 | **Skills Overview** | **Technologies** |
