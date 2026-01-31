@@ -1,15 +1,15 @@
 <div><img width="900" height="200" src="https://i.ibb.co/x8Khty6c/Screenshot-2025-06-25-111802.png"/></div>
 
 ### About Me <br/>
-Hi there! I'm ***Yeasin Miazi***. I'm a passionate Web Developer with a strong focus on FrontEnd Development. I love sharing what I know teaching. If you want to learn more about what I do, you can follow me. Outside of coding, I enjoy Bussiness Studies.
+Hi there! I'm ***Yeasin Miazi***. I'm a passionate Web Developer with a strong focus on FrontEnd Development. I love sharing what I know about teaching. If you'd like to learn more about what I do, you can follow me. Outside of coding, I enjoy Business Studies.
 
 <hr style="height:2px; background-color:#999; border:none; margin-top: 20px; margin-bottom: 20px;" />
 
 ## 🚀 Current Activities  
 
 ### 🔭 Working On  
-- ✈️ Tourism Management Website (**Roavia**)  
-- 📦 Parcel Management Website 
+- ✈️ Delivery Management Website (AirCarry)
+- 🌤️ Weather Broadcasting Website (Skycast)
 
 ### 🌱 Exploring  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
