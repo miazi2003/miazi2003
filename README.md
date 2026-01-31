@@ -1,4 +1,4 @@
-<div><img width="900" height="200" src="https://i.ibb.co/x8Khty6c/Screenshot-2025-06-25-111802.png"/></div>
+<div><img width="900" height="200" src="[https://i.ibb.co/x8Khty6c/Screenshot-2025-06-25-111802.png](https://ibb.co.com/KjYxRcV6)"/></div>
 
 ### About Me <br/>
 Hi there! I'm ***Yeasin Miazi***. I'm a passionate Web Developer with a strong focus on FrontEnd Development. I love sharing what I know about teaching. If you'd like to learn more about what I do, you can follow me. Outside of coding, I enjoy Business Studies.
