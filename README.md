@@ -1,4 +1,4 @@
-<div><img width="900" height="200" src="[https://ibb.co.com/KjYxRcV6](https://i.ibb.co/x8Khty6c/Screenshot-2025-06-25-111802.png)"/></div>
+
 <div><img width="900" height="200" src="https://i.ibb.co/x8Khty6c/Screenshot-2025-06-25-111802.png"/></div>
 
 ### About Me <br/>
