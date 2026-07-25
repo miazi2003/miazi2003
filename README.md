@@ -1,72 +1,138 @@
-<div><img width="900" height="200" src="https://i.ibb.co/x8Khty6c/Screenshot-2025-06-25-111802.png"/></div>
+<p align="center">
+  <img src="https://i.ibb.co/x8Khty6c/Screenshot-2025-06-25-111802.png" alt="banner" style="max-width:100%;height:auto;border-radius:8px" />
+</p>
 
-### About Me <br/>
-Hi there! I'm ***Yeasin Miazi***. I'm a passionate Web Developer with a strong focus on FrontEnd Development. I love sharing what I know about teaching. If you'd like to learn more about what I do, you can follow me. Outside of coding, I enjoy Business Studies.
+<p align="center">
+  <h1 align="center">Yeasin Miazi — Senior Frontend Engineer</h1>
+  <em>Building product-grade Web & Full‑Stack applications with Next.js, TypeScript and Tailwind CSS.</em>
+</p>
 
-<hr style="height:2px; background-color:#999; border:none; margin-top: 20px; margin-bottom: 20px;" />
+---
 
-## 🚀 Current Activities  
+<p align="center">
+  <strong>Core focus:</strong> Real Estate SaaS · CMS · Dashboards · Business Applications · Full‑Stack Web Apps
+</p>
 
-### 🔭 Working On  
-- ✈️ Delivery Management Website (AirCarry)
-- 🌤️ Weather Broadcasting Website (Skycast)
 
-### 🌱 Exploring  
+## <p align="center">Selected Technologies</p>
+
+<p align="center">
+
+<!-- Primary -->
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+<br/>
+
+<!-- Styling & UI -->
+
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+<br/>
+
+<!-- Backend & DB -->
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+<br/>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+<br/>
+
+<!-- Integrations & Auth -->
+
+![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+
+<br/>
+
+<!-- APIs & Auth -->
+
+![REST](https://img.shields.io/badge/REST-4A5568?style=for-the-badge&logo=rest&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+
+</p>
 
 ---
 
+## <p align="center">What I build</p>
 
-### When I code, I rely on
-
-| **Skills Overview** | **Technologies** |
-|---------------------|------------------|
-| **Languages**       | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000) |
-| **Frontend Technologies** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=fff) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000) ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=nextdotjs) |
-| **Back-End Development** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=fff) ![Express.js](https://img.shields.io/badge/-Express.js-000?logo=express&logoColor=fff) |
-| **Database** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)  |
-| **Tools & Platforms** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000) ![JWT](https://img.shields.io/badge/-JWT-000?logo=jsonwebtokens&logoColor=fff) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff) |
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/amimiazi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeasinmiazi/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=yeasinmiazi1997@gmail.com)
-
-
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=miazi2003&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=miazi2003&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=miazi2003&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=miazi2003&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=miazi2003&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+<ul style="display:inline-block;text-align:left;list-style:disc;padding-left:1.2rem;">
+  <li>Real Estate SaaS platforms (multi-tenant, search & listing, payments)</li>
+  <li>Headless CMS and content-driven web apps</li>
+  <li>Admin dashboards and internal business tooling</li>
+  <li>Full‑stack web applications with robust APIs and auth</li>
+</ul>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=miazi2003&icon=9&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## <p align="center">Featured Projects</p>
 
-### Contact
+<p align="center">
+  <table align="center" width="100%" style="max-width:900px;">
+    <tr>
+      <td width="48%" valign="top" style="padding:12px">
+        <strong>AirCarry (Delivery Management)</strong>
+        <br>
+        Role: Lead Frontend Engineer — built responsive admin dashboard, realtime order tracking, payments integration.
+        <br>
+        Tech: Next.js · React · TypeScript · Tailwind · Node.js
+        <br>
+        <a href="#">Repository / Demo</a>
+      </td>
+      <td width="4%"></td>
+      <td width="48%" valign="top" style="padding:12px">
+        <strong>Skycast (Weather Broadcasting)</strong>
+        <br>
+        Role: Full‑Stack Engineer — realtime data visualizations, API design, deployment pipelines.
+        <br>
+        Tech: Next.js · Socket.io · Prisma · PostgreSQL
+        <br>
+        <a href="#">Repository / Demo</a>
+      </td>
+    </tr>
+  </table>
 
-Feel free to reach out to me or connect with me on <a href="https://www.linkedin.com/in/yeasin-miazi-64068033b/?trk=opento_sprofile_topcard">Linkedin</a>
+  <p style="font-size:0.9rem;color:#9CA3AF;margin-top:8px">Replace links with live demos or repo URLs to enable quick previews.</p>
+</p>
 
-You can also find me on:
-<li>Email: <a mailTo="yeasinmaizi1997@gmail.com">yeasinmiazi1997@gmail.com</a> </li>
-<li>Facebook : https://m.facebook.com/amimiazi</li>
-Let's connect and discuss exciting opportunities!
+---
 
+## <p align="center">Current learning</p>
 
+<p align="center">
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-6C6CE5?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+</p>
 
+---
 
+## <p align="center">Contact & Links</p>
 
+<p align="center">
+[<img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/miazi2003)
+[<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/yeasinmiazi/)
+[<img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:yeasinmiazi1997@gmail.com)
+</p>
 
+---
+
+## <p align="center">GitHub</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=miazi2003&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="github stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miazi2003&theme=dark&hide_border=false&layout=compact" alt="top langs" />
+</p>
+
+<p align="center" style="margin-top:8px;color:#9CA3AF;font-size:0.9rem">Profile designed with a compact, modern dark aesthetic — replace project links and screenshots to showcase live work.</p>
